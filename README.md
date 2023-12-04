@@ -1,7 +1,10 @@
 ### Hi there 👋
 I'm Oluwatobi Oluyede, a web developer and tech enthusiast.
 
+I’m currently working on a resume builder SaaS using the MERN stack.
+I'm also leading my team in the DevCareer x TBD Web5 hackathon.
 
+I'm currently learning frontend development with ReactJS and also how to build simple APIs with Node and Express.js.
 <!--
 **iamtowbee/iamtowbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
