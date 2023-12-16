@@ -3,7 +3,7 @@ I'm Oluwatobi Oluyede, a web developer and tech enthusiast.
 
 ### Projects
 I’m currently working on a resume builder SaaS using the MERN stack.
-I'm also leading my team in the DevCareer x TBD Web5 hackathon (qualified for phase 2).
+I'm also leading a team in the DevCareer x TBD Web5 hackathon (qualified for phase 2).
 
 ### Learning
 I'm currently learning frontend development with ReactJS and also how to build backend APIs with Node and Express.js.
