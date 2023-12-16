@@ -1,6 +1,9 @@
 ## Hi there 👋
-I'm Oluwatobi Oluyede, a web developer and tech enthusiast.
-
+I'm Oluwatobi Oluyede, a web developer, writer, and tech enthusiast. I'm passionate about solving global challenges using technology.
+- 💬 Ask me about: 70s music, streetwear, food, wellness...
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I'm one bone less, literally!
+  
 ### Projects
 I’m currently working on a resume builder SaaS using the MERN stack.
 I'm also leading a team in the DevCareer x TBD Web5 hackathon (qualified for phase 2).
@@ -10,17 +13,13 @@ I'm currently learning frontend development with ReactJS and also how to build b
 
 ### Tech Stack
 - Frontend: HTML5, CSS3, ReactJS, TailwindCSS, SASS, React Router v6, Next.js (in view)
-- Backend: NodeJS (RESTful arch.), Express.js, Python (Flask)
+- Backend: NodeJS (RESTful), Express.js, Python (Flask), Plain PHP
 - DB: MySQL, MongoDB
 
 ### 🤔 I’m looking for...
 - Mentorship
 - Job opportunities (full-time or internship roles)
 - Research collaboration (focus domains: health technology and AI)
-
-- 💬 Ask me about: 70s music, streetwear, food, wellness...
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: 
 
 ### 📫 Reach Out to Me
 You can contact me on [Linkedin](https://linkedin.com/in/oluwatobi-oluyede) or [Twitter](https://twitter.com/holacontent)
