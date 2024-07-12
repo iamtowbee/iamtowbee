@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm Oluwatobi Oluyede, a full-stack web developer, writer, and tech enthusiast. I'm passionate about tackling global challenges using technology.
-- 💬 Ask me: 70s music, streetwear, food,...
-- 😄 Pronouns: They/Them
+- 💬 Ask me: music, streetwear, food,...
 - ⚡ Fun fact: I'm one bone less, literally!
   
 ### Projects
@@ -11,7 +10,7 @@ I led a team in the 2023 DevCareer x TBD Web5 Hackathon (semi-finalists).
 ### Learning
 I'm currently learning frontend development with Next.js with TypeScript and building backend APIs with Node.js and Express.
 
-### Tech Stack
+### Tech stack
 - Languages: JavaScript, TypeScript, Python
 - Frontend: HTML5, CSS3, ReactJS, TailwindCSS, React Router v6, Next.js
 - Backend: Node.js, Express, Python (Flask)
@@ -22,7 +21,7 @@ I'm currently learning frontend development with Next.js with TypeScript and bui
 - Job opportunities (full-time or internship roles)
 - Research collaboration (focus domains: healthcare technology and AI)
 
-### 📫 Reach Out to Me
+### 📫 Wanna reach out?
 You can contact me on [Linkedin](https://linkedin.com/in/oluwatobi-oluyede) or [Twitter](https://twitter.com/ceaserszn)
 
 Thank you for checking out my profile🙂
